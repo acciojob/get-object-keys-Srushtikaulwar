@@ -1,8 +1,7 @@
 //your JS code here. If required.
-let student={
-	name: "srushti",
-	lastanme: "kaulwar",
-	age: 21
+const student={
+	name: "John",
+	
 }
 function getkeys(obj){
 	return Object.keys(obj)
