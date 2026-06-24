@@ -4,8 +4,8 @@ let student={
 	lastanme: "kaulwar",
 	age: 21
 }
-function getkey(obj){
+function getkeys(obj){
 	return Object.keys(obj)
 	
 	
-}console.log(getkey(student))
+}console.log(getkeys(student))
